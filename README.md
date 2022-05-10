@@ -8,7 +8,7 @@
 
  
 
-:computer_mouse: I'm currently on the full stack, for a year.
+:computer_mouse: I'm currently on the full stack, for a 3 years.
 
 :heavy_check_mark: Live in Paraiba, Brazil.
 
