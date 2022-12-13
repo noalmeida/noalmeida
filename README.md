@@ -12,7 +12,8 @@
 
 :heavy_check_mark: Live in Paraiba, Brazil.
 
-:outbox_tray: 2021 Goals: Evolve in knowledge, always learning.
+:outbox_tray: 2023 Goals: Evolve in knowledge, always learning, up my english level. up devops, and specialize in webflux.
+
 
 :blush: Passionate about small achievements.
 
