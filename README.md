@@ -4,11 +4,11 @@
 
 
 
-\#I'm Noan :blush:
+\#I'm Noan and a trans guy :blush:
 
  
 
-:computer_mouse: I'm currently on the full stack, for a 3 years.
+:computer_mouse: I'm currently on the full stack, for almost 4 years.
 
 :heavy_check_mark: Live in Paraiba, Brazil.
 
